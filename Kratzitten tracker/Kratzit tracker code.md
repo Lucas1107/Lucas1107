@@ -50,14 +50,8 @@ Enter inital: 3
 ```
 
 ## De code
-```p
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  7 22:01:26 2022
-KRATZITTEN 
+```
 
-@author: Lucas Rabou
-"""
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jan  7 22:01:26 2022
